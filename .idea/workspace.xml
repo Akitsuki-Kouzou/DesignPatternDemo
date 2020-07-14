@@ -2,48 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bccb72-6b6e-4d40-8ab1-fdff127e6724" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/com/xay/Cloth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/com/xay/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/com/xay/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/com/xay/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator/src/com/xay/test/DecoratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatternDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/AddFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/IOperationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/OperateAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/SubFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory/src/com/xay/test/FactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prototype/Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prototype/src/com/xay/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/com/xay/BuyHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/com/xay/DynamicBuyHouseProxyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/com/xay/HouseCompany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/com/xay/Intermediary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy/src/com/xay/test/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/com/xay/OperateAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/com/xay/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/com/xay/OperationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/com/xay/OperationSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SimpleFactory/src/com/xay/test/SimpleFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/CashNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/CashRebeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/CashReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/CashSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/ContextBySimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy/src/com/xay/test/StrategyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/src/com/xay/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/src/com/xay/CookA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/src/com/xay/CookB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BuyHouse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/BuyHouse.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +31,11 @@
       <file leaf-file-name="HouseCompany.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/HouseCompany.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="170">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -80,24 +44,76 @@
       <file leaf-file-name="Intermediary.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/Intermediary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
+            <state relative-caret-position="204">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="267">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#487#517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/src/com/xay/Cook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CookA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CookB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,7 +122,7 @@
       <file leaf-file-name="PrototypeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
+            <state relative-caret-position="68">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -168,6 +184,10 @@
         <option value="$PROJECT_DIR$/Factory/src/com/xay/test/FactoryTest.java" />
         <option value="$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java" />
         <option value="$PROJECT_DIR$/Prototype/src/com/xay/Person.java" />
+        <option value="$PROJECT_DIR$/Template/src/com/xay/Cook.java" />
+        <option value="$PROJECT_DIR$/Template/src/com/xay/CookA.java" />
+        <option value="$PROJECT_DIR$/Template/src/com/xay/CookB.java" />
+        <option value="$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java" />
       </list>
     </option>
   </component>
@@ -191,6 +211,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,13 +221,45 @@
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xay" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrototypeTest">
+  <component name="RunManager" selected="Application.TemplateTest">
     <configuration name="DecoratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xay.test.DecoratorTest" />
       <module name="Decorator" />
@@ -277,9 +332,9 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xay.test.StrategyTest" />
-      <module name="Strategy" />
+    <configuration name="TemplateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xay.test.TemplateTest" />
+      <module name="Template" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -330,19 +385,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StrategyTest" />
       <item itemvalue="Application.DecoratorTest" />
       <item itemvalue="Application.ProxyTest" />
       <item itemvalue="Application.FactoryTest" />
       <item itemvalue="Application.PrototypeTest" />
+      <item itemvalue="Application.TemplateTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TemplateTest" />
         <item itemvalue="Application.PrototypeTest" />
         <item itemvalue="Application.FactoryTest" />
         <item itemvalue="Application.ProxyTest" />
         <item itemvalue="Application.DecoratorTest" />
-        <item itemvalue="Application.StrategyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -356,47 +411,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594652496976</updated>
-      <workItem from="1594652504858" duration="5046000" />
+      <workItem from="1594652504858" duration="5139000" />
+      <workItem from="1594741676904" duration="278000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1594657590323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594657590324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5046000" />
+    <option name="totallyTimeSpent" value="5417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="5" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25378788" />
+      <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Messages" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
-      <window_info id="JRebel" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="8" weight="0.32894737" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32894737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,21 +470,64 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/BuyHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/HouseCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/Intermediary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleFactory/src/com/xay/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -427,10 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -438,10 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-          <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -456,9 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,12 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -486,10 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,12 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -510,10 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -528,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -538,10 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -549,10 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,10 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,10 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -582,9 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -592,11 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,9 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,10 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,10 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,30 +695,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/Intermediary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
+        <state relative-caret-position="204">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Proxy/src/com/xay/HouseCompany.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="170">
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -693,7 +729,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state relative-caret-position="68">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -710,11 +746,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="267">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#487#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -7,6 +7,5 @@ package com.xay;
  **/
 public class SqlConsts {
 
-    public static final String USER_OP = MysqlUser.class.getName();
-    public static final String DEPARTMENT_OP = MysqlDepartment.class.getName();
+    public static final String FACTORY = MysqlFactory.class.getName();
 }

@@ -3,6 +3,7 @@ package com.xay.test;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
+import com.xay.AbstractSqlFactory;
 import com.xay.IDepartment;
 import com.xay.IUser;
 import com.xay.SqlConsts;
@@ -15,14 +16,15 @@ import com.xay.SqlConsts;
 public class ReflectAbstractFactoryTest {
 
     public static void main(String[] args) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
-        Class<?> user =  Class.forName(SqlConsts.USER_OP);
-        IUser uInstance = (IUser) user.newInstance();
-        uInstance.insertUser();
-        uInstance.selectUser();
 
-        Class<?> department = Class.forName(SqlConsts.DEPARTMENT_OP);
-        IDepartment dInstance = (IDepartment) department.newInstance();
-        dInstance.insertDepartment();
-        dInstance.selectDepartment();
+        AbstractSqlFactory factory = (AbstractSqlFactory) Class.forName(SqlConsts.FACTORY).newInstance();
+
+        IUser user = factory.creteUser();
+        user.insertUser();
+        user.selectUser();
+
+        IDepartment department = factory.createDepartment();
+        department.insertDepartment();
+        department.selectDepartment();
     }
 }

@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bccb72-6b6e-4d40-8ab1-fdff127e6724" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/State/State.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/AfternoonState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/MorningState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/NightState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/NoonState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/RestState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/SleepingState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/Work.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/State/src/com/xay/test/StateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/com/xay/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,69 +18,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MysqlDepartment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlDepartment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-              <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/src/com/xay/State.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Work.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Work.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/State/src/com/xay/Work.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Target.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Adaptee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MorningState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/src/com/xay/MorningState.java">
+      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StateTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/src/com/xay/test/StateTest.java">
+      <file leaf-file-name="AdapterTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="32" />
+            <state relative-caret-position="238">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -113,7 +95,7 @@
       <file leaf-file-name="NightState.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/State/src/com/xay/NightState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
@@ -126,7 +108,7 @@
               <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,7 +121,7 @@
               <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -169,10 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Template/src/com/xay/CookA.java" />
-        <option value="$PROJECT_DIR$/Template/src/com/xay/CookB.java" />
-        <option value="$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java" />
-        <option value="$PROJECT_DIR$/Facade/src/com/xay/SubSystemA.java" />
         <option value="$PROJECT_DIR$/Facade/src/com/xay/Facade.java" />
         <option value="$PROJECT_DIR$/Facade/src/com/xay/test/FacadeTest.java" />
         <option value="$PROJECT_DIR$/Facade/src/com/xay/SubSystemB.java" />
@@ -220,6 +198,10 @@
         <option value="$PROJECT_DIR$/State/src/com/xay/SleepingState.java" />
         <option value="$PROJECT_DIR$/State/src/com/xay/test/StateTest.java" />
         <option value="$PROJECT_DIR$/State/src/com/xay/Work.java" />
+        <option value="$PROJECT_DIR$/Adapter/src/com/xay/Target.java" />
+        <option value="$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java" />
+        <option value="$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java" />
+        <option value="$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java" />
       </list>
     </option>
   </component>
@@ -237,12 +219,15 @@
     <option name="width" value="1380" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -254,25 +239,25 @@
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xay" type="462c0819:PsiDirectoryNode" />
@@ -280,7 +265,7 @@
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xay" type="462c0819:PsiDirectoryNode" />
@@ -290,7 +275,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -319,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StateTest">
+  <component name="RunManager" selected="Application.AdapterTest">
     <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xay.test.AbstractFactoryTest" />
       <module name="AbstractFactory" />
@@ -331,9 +315,9 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="PublisherAndSubscriberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xay.test.PublisherAndSubscriberTest" />
-      <module name="PublisherAndSubscriber" />
+    <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xay.test.AdapterTest" />
+      <module name="Adapter" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -417,19 +401,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PublisherAndSubscriberTest" />
       <item itemvalue="Application.AbstractFactoryTest" />
       <item itemvalue="Application.SimpleFactoryAbstractFactoryTest" />
       <item itemvalue="Application.ReflectAbstractFactoryTest" />
       <item itemvalue="Application.StateTest" />
+      <item itemvalue="Application.AdapterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterTest" />
         <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.ReflectAbstractFactoryTest" />
         <item itemvalue="Application.SimpleFactoryAbstractFactoryTest" />
         <item itemvalue="Application.AbstractFactoryTest" />
-        <item itemvalue="Application.PublisherAndSubscriberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -451,6 +435,7 @@
       <workItem from="1594975905490" duration="4807000" />
       <workItem from="1595438000745" duration="1946000" />
       <workItem from="1595465239288" duration="7240000" />
+      <workItem from="1595781464008" duration="268000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1594657590323</created>
@@ -519,37 +504,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21038000" />
+    <option name="totallyTimeSpent" value="21306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="5" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28181818" />
+      <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Messages" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.27727273" />
-      <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
@@ -581,34 +566,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/Cook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/CookB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Template/src/com/xay/test/TemplateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Facade/src/com/xay/SubSystemA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -809,10 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -827,10 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="27" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,9 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,9 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,18 +822,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-start-column="4" selection-end-column="4" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="204">
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding>
             <element signature="e#208#209#0" expanded="true" />
@@ -921,7 +855,7 @@
     <entry file="file://$PROJECT_DIR$/State/src/com/xay/MorningState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="7" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="7" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -941,7 +875,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/State/src/com/xay/NightState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
@@ -952,7 +886,7 @@
           <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -963,7 +897,7 @@
           <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
           <folding>
             <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -972,21 +906,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

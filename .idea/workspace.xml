@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bccb72-6b6e-4d40-8ab1-fdff127e6724" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Memento/Memento.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memento/src/com/xay/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memento/src/com/xay/StateCaretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memento/src/com/xay/StateMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memento/src/com/xay/test/MementoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/Composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/com/xay/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/com/xay/ConcreteCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/com/xay/FinanceDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/com/xay/HRDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite/src/com/xay/test/CompositeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -20,54 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Work.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/src/com/xay/Work.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Target.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Target.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adaptee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Adapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AdapterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="221">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,23 +36,11 @@
       <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="612">
+              <caret line="38" column="5" selection-start-line="7" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#752#753#0" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,9 +49,10 @@
       <file leaf-file-name="StateCaretaker.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/StateCaretaker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="7" selection-end-line="19" />
               <folding>
+                <element signature="e#208#209#0" expanded="true" />
                 <element signature="e#238#239#0" expanded="true" />
                 <element signature="e#290#291#0" expanded="true" />
                 <element signature="e#328#329#0" expanded="true" />
@@ -115,11 +61,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MementoTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MementoTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/test/MementoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="284">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Company.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/Company.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#533#534#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteCompany.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/ConcreteCompany.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HRDepartment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/HRDepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FinanceDepartment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/FinanceDepartment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/test/CompositeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="505">
+              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,9 +161,10 @@
       <file leaf-file-name="StateMemento.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/StateMemento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" selection-start-line="7" selection-end-line="17" selection-end-column="5" />
               <folding>
+                <element signature="e#342#343#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
                 <element signature="e#400#401#0" expanded="true" />
                 <element signature="e#428#429#0" expanded="true" />
@@ -144,19 +176,6 @@
                 <element signature="e#593#594#0" expanded="true" />
                 <element signature="e#628#629#0" expanded="true" />
                 <element signature="e#658#659#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestState.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/State/src/com/xay/RestState.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,11 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Builder/src/com/xay/FatPerson.java" />
-        <option value="$PROJECT_DIR$/Builder/src/com/xay/ThinPerson.java" />
-        <option value="$PROJECT_DIR$/Builder/src/com/xay/PersonDirector.java" />
-        <option value="$PROJECT_DIR$/Builder/src/com/xay/test/BuilderTest.java" />
-        <option value="$PROJECT_DIR$/Observer/src/com/xay/ObserverA.java" />
         <option value="$PROJECT_DIR$/Observer/src/com/xay/Observer.java" />
         <option value="$PROJECT_DIR$/Observer/src/com/xay/ObserverB.java" />
         <option value="$PROJECT_DIR$/Observer/src/com/xay/Subject.java" />
@@ -237,6 +251,11 @@
         <option value="$PROJECT_DIR$/Memento/src/com/xay/StateCaretaker.java" />
         <option value="$PROJECT_DIR$/Memento/src/com/xay/Player.java" />
         <option value="$PROJECT_DIR$/Memento/src/com/xay/test/MementoTest.java" />
+        <option value="$PROJECT_DIR$/Composite/src/com/xay/Company.java" />
+        <option value="$PROJECT_DIR$/Composite/src/com/xay/HRDepartment.java" />
+        <option value="$PROJECT_DIR$/Composite/src/com/xay/FinanceDepartment.java" />
+        <option value="$PROJECT_DIR$/Composite/src/com/xay/ConcreteCompany.java" />
+        <option value="$PROJECT_DIR$/Composite/src/com/xay/test/CompositeTest.java" />
       </list>
     </option>
   </component>
@@ -262,8 +281,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,25 +291,25 @@
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xay" type="462c0819:PsiDirectoryNode" />
@@ -300,7 +317,7 @@
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Memento" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xay" type="462c0819:PsiDirectoryNode" />
@@ -310,6 +327,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -338,10 +357,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MementoTest">
+  <component name="RunManager" selected="Application.CompositeTest">
     <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xay.test.AdapterTest" />
       <module name="Adapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xay.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CompositeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xay.test.CompositeTest" />
+      <module name="Composite" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -363,17 +393,6 @@
     </configuration>
     <configuration name="ReflectAbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xay.test.ReflectAbstractFactoryTest" />
-      <module name="AbstractFactory" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xay.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SimpleFactoryAbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xay.test.SimpleFactoryAbstractFactoryTest" />
       <module name="AbstractFactory" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -436,19 +455,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleFactoryAbstractFactoryTest" />
       <item itemvalue="Application.ReflectAbstractFactoryTest" />
       <item itemvalue="Application.StateTest" />
       <item itemvalue="Application.AdapterTest" />
       <item itemvalue="Application.MementoTest" />
+      <item itemvalue="Application.CompositeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositeTest" />
         <item itemvalue="Application.MementoTest" />
         <item itemvalue="Application.AdapterTest" />
         <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.ReflectAbstractFactoryTest" />
-        <item itemvalue="Application.SimpleFactoryAbstractFactoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +489,8 @@
       <workItem from="1594975905490" duration="4807000" />
       <workItem from="1595438000745" duration="1946000" />
       <workItem from="1595465239288" duration="7240000" />
-      <workItem from="1595781464008" duration="1558000" />
+      <workItem from="1595781464008" duration="2217000" />
+      <workItem from="1595861372032" duration="2336000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1594657590323</created>
@@ -542,41 +562,48 @@
       <option name="project" value="LOCAL" />
       <updated>1595781776642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[add] 增加备忘录模式demo">
+      <created>1595783502927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1595783502927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22596000" />
+    <option name="totallyTimeSpent" value="25591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="5" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="0" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="JRebel Executor" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28636363" />
+      <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Messages" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28181818" />
-      <window_info id="JRebel" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
@@ -601,7 +628,8 @@
     <MESSAGE value="[add] 增加抽象工厂模式demo" />
     <MESSAGE value="[imp] 抽象工厂模式小调整" />
     <MESSAGE value="[add] 增加适配器模式demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] 增加适配器模式demo" />
+    <MESSAGE value="[add] 增加备忘录模式demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] 增加备忘录模式demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -609,41 +637,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Prototype/src/com/xay/test/PrototypeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/com/xay/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/com/xay/FatPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/com/xay/ThinPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Builder/src/com/xay/PersonDirector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Builder/src/com/xay/test/BuilderTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -844,12 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -899,10 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -919,7 +902,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/State/src/com/xay/Work.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
@@ -933,31 +916,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adaptee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="153">
           <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/Adapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="204">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="38" column="5" selection-start-line="7" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/StateMemento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="7" selection-end-line="17" selection-end-column="5" />
           <folding>
+            <element signature="e#342#343#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
             <element signature="e#400#401#0" expanded="true" />
             <element signature="e#428#429#0" expanded="true" />
@@ -975,9 +972,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/StateCaretaker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="7" selection-end-line="19" />
           <folding>
+            <element signature="e#208#209#0" expanded="true" />
             <element signature="e#238#239#0" expanded="true" />
             <element signature="e#290#291#0" expanded="true" />
             <element signature="e#328#329#0" expanded="true" />
@@ -985,43 +983,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/Player.java">
+    <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/test/MementoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Adapter/src/com/xay/test/AdapterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="284">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Memento/src/com/xay/test/MementoTest.java">
+    <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/HRDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="335">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/FinanceDepartment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/ConcreteCompany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/src/com/xay/test/CompositeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

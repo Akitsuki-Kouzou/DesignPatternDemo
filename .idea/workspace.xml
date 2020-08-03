@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87bccb72-6b6e-4d40-8ab1-fdff127e6724" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Bridge/Bridge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Motorora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Nokia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/Software.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bridge/src/com/xay/test/BridgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/Command.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/BackChickenWingCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/BackMuttonCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/Barbecuer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/Waiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command/src/com/xay/test/CommandTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,104 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SingletonDoubleCheckLock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singleton/src/com/xay/SingletonDoubleCheckLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-              <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SingletonHolder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singleton/src/com/xay/SingletonHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-              <folding>
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Phone.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Phone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Software.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Software.java">
+      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Command.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Game.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Camera.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Camera.java">
+      <file leaf-file-name="Waiter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Waiter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Nokia.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Nokia.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Motorora.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Motorora.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BridgeTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/test/BridgeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,13 +48,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingletonTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Singleton/src/com/xay/test/SingletonTest.java">
+      <file leaf-file-name="CommandTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Command/src/com/xay/test/CommandTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="676">
+              <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1042#1043#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Barbecuer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Barbecuer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,13 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PublisherAndSubscriber/src/com/xay/SubscriberA.java" />
-        <option value="$PROJECT_DIR$/PublisherAndSubscriber/src/com/xay/SubscriberB.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/IUser.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/SqlServerUser.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlUser.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/IDepartment.java" />
-        <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlDepartment.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/SqlServerDepartment.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlFactory.java" />
         <option value="$PROJECT_DIR$/AbstractFactory/src/com/xay/SqlServerFactory.java" />
@@ -215,6 +145,13 @@
         <option value="$PROJECT_DIR$/Bridge/src/com/xay/Nokia.java" />
         <option value="$PROJECT_DIR$/Bridge/src/com/xay/Motorora.java" />
         <option value="$PROJECT_DIR$/Bridge/src/com/xay/test/BridgeTest.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/Barbecuer.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/Command.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/BackMuttonCommand.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/BackChickenWingCommand.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/Customer.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/test/CommandTest.java" />
+        <option value="$PROJECT_DIR$/Command/src/com/xay/Waiter.java" />
       </list>
     </option>
   </component>
@@ -250,28 +187,37 @@
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="Bridge" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatternDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatternDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Command" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xay" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -308,10 +254,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BridgeTest">
-    <configuration name="AdapterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xay.test.AdapterTest" />
-      <module name="Adapter" />
+  <component name="RunManager" selected="Application.CommandTest">
+    <configuration name="BridgeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xay.test.BridgeTest" />
+      <module name="Bridge" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -320,9 +266,9 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BridgeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xay.test.BridgeTest" />
-      <module name="Bridge" />
+    <configuration name="CommandTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xay.test.CommandTest" />
+      <module name="Command" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -406,19 +352,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.AdapterTest" />
       <item itemvalue="Application.MementoTest" />
       <item itemvalue="Application.CompositeTest" />
       <item itemvalue="Application.SingletonTest" />
       <item itemvalue="Application.BridgeTest" />
+      <item itemvalue="Application.CommandTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommandTest" />
         <item itemvalue="Application.BridgeTest" />
         <item itemvalue="Application.SingletonTest" />
         <item itemvalue="Application.CompositeTest" />
         <item itemvalue="Application.MementoTest" />
-        <item itemvalue="Application.AdapterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +391,7 @@
       <workItem from="1595942663983" duration="1329000" />
       <workItem from="1595956056144" duration="1025000" />
       <workItem from="1596038892635" duration="367000" />
-      <workItem from="1596469099715" duration="466000" />
+      <workItem from="1596469099715" duration="3840000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1594657590323</created>
@@ -538,11 +484,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595957056932</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="[add] 增加桥接模式demo">
+      <created>1596469600973</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596469600973</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29503000" />
+    <option name="totallyTimeSpent" value="33102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1380" height="745" extended-state="0" />
@@ -560,7 +513,7 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.39933994" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Messages" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -626,63 +579,15 @@
     <MESSAGE value="[add] 增加备忘录模式demo" />
     <MESSAGE value="[add] 增加组合模式demo" />
     <MESSAGE value="[add] 增加单例模式demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] 增加单例模式demo" />
+    <MESSAGE value="[add] 增加桥接模式demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] 增加桥接模式demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PublisherAndSubscriber/src/com/xay/test/PublisherAndSubscriberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Observer/src/com/xay/test/ObserverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/IUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/SqlServerUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/IDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/MysqlFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AbstractFactory/src/com/xay/SqlConsts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -988,17 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Camera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1036,12 +930,110 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/BackChickenWingCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/BackMuttonCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/test/BridgeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bridge/src/com/xay/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Barbecuer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/Waiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/src/com/xay/test/CommandTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
           </folding>
         </state>
       </provider>
